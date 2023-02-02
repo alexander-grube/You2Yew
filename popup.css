@@ -1,0 +1,10 @@
+body {
+    background-color: #111;
+    min-width: 200px;
+}
+
+.text {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: aliceblue;
+}
+
